@@ -3,4 +3,6 @@
 # First Assignment - Project1:Sprites 
 # Second Assignments - Project2:Functions 
 # Third Assignment - Project3:Events
-# Fourth Assignment - Project4 : Values 
+# Fourth Assignment - Project4:Values 
+# Fifth Assignment - Project5:Conditions 
+# Sixth Assignment - Project6:loops 
